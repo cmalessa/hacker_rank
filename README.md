@@ -1,5 +1,5 @@
 # hacker_rank
-My solutions to Hacker Rank problems.
+My solutions to Hacker Rank problems. It's just C++ for the moment but I'll likely come back through later and do Python and Haskell.
 
 ## stats
 |domain|solved|
