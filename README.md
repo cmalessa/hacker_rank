@@ -5,7 +5,7 @@ My solutions to Hacker Rank problems. It's just C++ for the moment but I'll like
 |domain|num_solved|
 |---|---|
 |algo.warmup|9|
-|algo.implement|21|
+|algo.implement|22|
 |algo.strings||
 |algo.sorting||
 |algo.search||
