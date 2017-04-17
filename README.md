@@ -6,9 +6,9 @@ My solutions to Hacker Rank problems. It's just C++ for the moment but I'll like
 |---|---|---|
 |algo.warmup|9||
 |algo.implement|37||
-|algo.strings|11||
-|algo.sorting|||
-|algo.search|||
+|algo.strings|12||
+|algo.sorting|3||
+|algo.search|1||
 |algo.graph|||
 |algo.greedy|||
 |algo.dynamic|||
