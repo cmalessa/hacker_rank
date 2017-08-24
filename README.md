@@ -4,8 +4,8 @@ My solutions to Hacker Rank problems. It's just C++ for the moment but I'll like
 ## stats
 |domain|num_solved:cpp|num_solved:py|
 |---|---|---|
-|algo.warmup|8||
-|algo.implement|37||
+|algo.warmup|9||
+|algo.implement|38||
 |algo.strings|12||
 |algo.sorting|2||
 |algo.search|1||
